@@ -12,6 +12,7 @@ npm run serve
 
 <p>Приложение для проведения онлайн квеста на мобильных устройствах</p>
 <p>Технологии frontend: Vue, vuex, vue-router</p>
+<a href='https://github.com/kubakin/tvoy-kvest'>Сервер приложения</a>
 <hr>
 <p>Страница с регистрацией</p>
 <img src='https://i.ibb.co/D5XM6W6/2021-06-20-16-17-03.png'></img>
