@@ -2,8 +2,8 @@ import Vue from "vue";
 import Vuex from "vuex";
 import axios from "axios";
 Vue.use(Vuex);
-//var baseURL = "http://localhost:8000"
-var baseURL = ""
+var baseURL = "http://localhost:8000"
+//baseURL = ""
 
 const Quest = {
   state: {
