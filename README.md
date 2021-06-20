@@ -1,4 +1,4 @@
-# frontend
+# frontend for tvoy-quest
 
 ## Project setup
 ```
@@ -10,10 +10,14 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p>Приложение для проведения онлайн квеста на мобильных устройствах</p>
+<p>Технологии frontend: Vue, vuex, vue-router</p>
+<hr>
+<p>Страница с регистрацией</p>
+<img src='https://i.ibb.co/D5XM6W6/2021-06-20-16-17-03.png'></img>
+<hr>
+<p>Страница авторизированного пользователя</p>
+<img src='https://i.ibb.co/gF7RKCx/2021-06-20-16-19-28.png'></img>
+<hr>
+<p>Страница с заданием</p>
+<img src='https://i.ibb.co/fnHsC7r/2021-06-20-16-25-07.png'</img>
